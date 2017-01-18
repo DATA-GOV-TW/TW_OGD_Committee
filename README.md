@@ -1,7 +1,8 @@
 # 臺灣政府資料開放諮詢小組
 
-- Hackfoldr : http://pro.odtw.org/TWODCommittee
-- Telegram : https://t.me/joinchat/AAAAAD8C4AdAVT13YhY6uw (討論區)
+
+  - Hackfoldr : http://pro.odtw.org/TWODCommittee
+  - Telegram : https://t.me/joinchat/AAAAAD8C4AdAVT13YhY6uw (討論區)
 
 
 - [政府資料開放諮詢小組設置要點](http://www.ndc.gov.tw/cp.aspx?n=E8E2E9E3E4EAE332)
